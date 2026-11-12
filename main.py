@@ -2,6 +2,17 @@ from dataclasses import dataclass
 from drafter import *
 import random
 
+set_website_title(" Pokemon App ")
+set_site_information(
+    author="Kaiden James",
+    description="Get a starter Pokémon or Play Who's That Pokémon and even search the Pokedex.",
+    sources="Thanks to the Drafter docs and my study group.",
+    planning=["plan.pdf", "design.pdf"],
+    links=["https://github.com/your-username/your-repository"]
+)
+hide_debug_information()
+set_website_framed(False)
+
 @dataclass
 class Pokemon:
     pokedex_number: str
