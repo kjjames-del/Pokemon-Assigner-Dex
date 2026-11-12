@@ -6,8 +6,8 @@ set_website_title(" Pokemon App ")
 set_site_information(
     author="Kaiden James",
     description="Get a starter Pokémon or Play Who's That Pokémon and even search the Pokedex.",
-    sources="Thanks to the Drafter docs and my study group.",
-    planning=["plan.pdf", "design.pdf"],
+    sources="Thanks to https://pokemondb.net/tools/text-list",
+    planning=["_CS1 Final Project 1_ Design.pdf", "CS1 Final Project 0_ Pick a Problem.pdf"],
     links=["https://github.com/your-username/your-repository"]
 )
 hide_debug_information()
