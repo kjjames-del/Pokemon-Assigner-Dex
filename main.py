@@ -8,7 +8,7 @@ set_site_information(
     description="Get a starter Pokémon or Play Who's That Pokémon and even search the Pokedex.",
     sources="Thanks to https://pokemondb.net/tools/text-list",
     planning=["_CS1 Final Project 1_ Design.pdf", "CS1 Final Project 0_ Pick a Problem.pdf"],
-    links=["https://github.com/your-username/your-repository"]
+    links=["https://github.com/kjjames-del/Pokemon-Assigner-Dex"]
 )
 hide_debug_information()
 set_website_framed(False)
